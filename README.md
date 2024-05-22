@@ -15,6 +15,7 @@ In the future I would like to learn more about android and game development 👾
 <img src="_readmeImgs_/languages/bash.svg" height="80px"/> <img src="_readmeImgs_/languages/python.svg" height="80px"/> <img src="_readmeImgs_/languages/javascript.svg" height="80px"/>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td style="text-align: center">
 <h3 style="text-align: center">Web</h3><br/>
@@ -38,9 +39,10 @@ In the future I would like to learn more about android and game development 👾
 <img src="_readmeImgs_/frameworks/hibernate.svg" height="80px"> <img src="_readmeImgs_/frameworks/node.png" height="80px">
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td colspan="2" style="text-align: center" >
-<h3 style="text-align: center">AI</h3><br/>
+<h3 style="text-align: center">Artificial Intelligence</h3><br/>
 <img src="_readmeImgs_/frameworks/numpy.png" height="80px"> <img src="_readmeImgs_/frameworks/pandas.svg" height="80px"> <img src="_readmeImgs_/frameworks/pytorch.png" height="80px">
 </tr>
 </table>
