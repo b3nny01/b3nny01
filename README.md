@@ -19,9 +19,9 @@ In the future I would like to learn more about android and game development 👾
 <h3>Frontend</h3><br/>
 <img src="_readmeImgs_/frameworks/jquery.png" height="40px"> <img src="_readmeImgs_/frameworks/react.svg" height="40px"> <img src="_readmeImgs_/frameworks/javafx.png" height="40px">
 </td>
-<td >
-<h3>AI</h3><br/>
-<img src="_readmeImgs_/frameworks/numpy.png" height="40px"> <img src="_readmeImgs_/frameworks/pandas.svg" height="40px"> <img src="_readmeImgs_/frameworks/pytorch.png" height="40px">
+<td>
+<h3>Backend</h3><br/>
+<img src="_readmeImgs_/frameworks/hibernate.svg" height="40px"> <img src="_readmeImgs_/frameworks/node.png" height="40px">
 </td>
 </tr>
 <tr></tr>
@@ -34,9 +34,9 @@ In the future I would like to learn more about android and game development 👾
 <h3>Database</h3><br/>
 <img src="_readmeImgs_/languages/mysql.svg" height="40px"/> <img src="_readmeImgs_/languages/db2.png" height="40px"/>
 </td>
-<td>
-<h3>Backend</h3><br/>
-<img src="_readmeImgs_/frameworks/hibernate.svg" height="40px"> <img src="_readmeImgs_/frameworks/node.png" height="40px">
+<td colspan="2">
+<h3>AI</h3><br/>
+<img src="_readmeImgs_/frameworks/numpy.png" height="40px"> <img src="_readmeImgs_/frameworks/pandas.svg" height="40px"> <img src="_readmeImgs_/frameworks/pytorch.png" height="40px">
 </td>
 </tr>
 </table>
