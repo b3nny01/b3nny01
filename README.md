@@ -1,12 +1,13 @@
 # Hi I'm b3nny01 👋
 
+## About me 📒
 <p>
 Hi, I'm a first year Computer Engineering MSc student at the University of Bologna 🎓.<br/>
 I have been strongly passionate about informatics since high school, nowadays I'm focusing my studies on software engineering, web development and AI 👨‍💻.<br/>
 In the future I would like to learn more about android and game development 👾.
 </p>
 
-## I work with 💻
+## What I work with 💻
 
 <table>
 <tr></tr>
