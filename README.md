@@ -18,38 +18,54 @@ In the future I would like to learn more about android and game development 👾
 <tr>
     <td>
         <h5>General<br/>Purpose</h5><br/>
-        <img src="_readmeImgs_/languages/c.svg" height="40px"/> <img src="_readmeImgs_/languages/java.svg" height="40px"/><br/><img src="_readmeImgs_/languages/kotlin.svg" height="40px"/> 
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40px"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40px"/><br/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"  height="40px"/>  
     </td>
     <td>
-        <h5>Scripting<br/></h5><br/>
-        <img src="_readmeImgs_/languages/bash.svg" height="40px"/> <img src="_readmeImgs_/languages/python.svg" height="40px"/><br/><img src="_readmeImgs_/languages/javascript.svg" height="40px"/>
+        <h5>Scripting<br/></h5><br/>      
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40px" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40px" /><br/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40px" />
     </td>
     <td>
         <h5>Frontend</h5><br/>
-        <img src="_readmeImgs_/frameworks/jquery.png" height="40px"> <img src="_readmeImgs_/frameworks/react.svg" height="40px"><br/><img src="_readmeImgs_/frameworks/javafx.png" height="40px">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" height="40px"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40px"/><br/>
+         <img src="_readmeImgs_/frameworks/javafx.png" height="40px">
     </td>
     <td>
         <h5>Backend</h5><br/>
-        <img src="_readmeImgs_/frameworks/hibernate.svg" height="40px"><br/><img src="_readmeImgs_/frameworks/node.png" height="40px">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="40px" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40px"/><br/>
+         <img src="_readmeImgs_/empty.png" height="40px">
     </td>
 </tr>
 <tr></tr>
 <tr>
     <td>
         <h5>Web</h5><br/>
-        <img src="_readmeImgs_/languages/html.svg" height="40px"/> <img src="_readmeImgs_/languages/css.svg" height="40px"/><br/><img src="_readmeImgs_/languages/javascript.svg" height="40px"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  height="40px" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  height="40px"/><br/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40px" />       
     </td>
     <td>
         <h5>Database</h5><br/>
-        <img src="_readmeImgs_/languages/mysql.svg" height="40px"/><img src="_readmeImgs_/languages/db2.png" height="40px"/><br/><img src="_readmeImgs_/empty.png" height="40px"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="40px"/>
+         <img src="_readmeImgs_/languages/db2.png" height="40px"><br>
+         <img src="_readmeImgs_/empty.png" height="40px">     
     </td>
     <td >
         <h5>AI</h5><br/>
-        <img src="_readmeImgs_/frameworks/numpy.png" height="40px"><img src="_readmeImgs_/frameworks/pandas.svg" height="40px"><br/><img src="_readmeImgs_/frameworks/pytorch.png" height="40px">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40px" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40px"/><br/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40px"/>          
     </td>
     <td >
-        <h5>Platforms</h5><br/>
-        <img src="_readmeImgs_/frameworks/android.png" height="40px"><img src="_readmeImgs_/frameworks/raspberry-pi.svg" height="40px"><br/><img src="_readmeImgs_/frameworks/arduino.png" height="40px">
+        <h5>Platforms</h5><br/> 
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="40px" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40px"/><br/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="40px"/>        
     </td>
 </tr>
 </table>
