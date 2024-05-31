@@ -2,9 +2,10 @@
 <img src="_readmeImgs_/profileDesk.png" width="600px">
 
 ## About me 📒
-<p style="width:600px">
+<p style="width:600 px">
 Hi, I'm a first year Computer Engineering MSc student at the University of Bologna 🎓.<br/>
-I have been strongly passionate about informatics since high school, nowadays I'm focusing my studies on software engineering, web development and AI 👨‍💻.<br/>
+I have been strongly passionate about informatics since high school,nowadays I'm<br/>
+focusing my studies on software engineering, web development and AI 👨‍💻.<br/>
 In the future I would like to learn more about android and game development 👾.
 </p>
 
