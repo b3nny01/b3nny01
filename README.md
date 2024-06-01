@@ -81,7 +81,7 @@ In the future I would like to learn more about android and game development 👾
     <td colspan="2">
         <h5>DevOps</h5><br/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40px"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40px"/>
+         <img src="_readmeImgs_/tools/github.svg" height="40px"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" height="40px"/><br/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="40px"/>
          <img src="_readmeImgs_/tools/virtualbox.png" height="40px">
