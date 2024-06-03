@@ -11,7 +11,7 @@ focusing my studies on software engineering, web development and AI 👨‍💻.
 In the future I would like to learn more about android and game development 👾.
 </p>
 
-## What I work with 💻
+## Tech skills 💻
 
 <p align="center" style="width:600px">
 <table>
