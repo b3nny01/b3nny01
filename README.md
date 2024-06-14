@@ -8,7 +8,8 @@
 Hi, I'm a first year Computer Engineering MSc student at the University of Bologna 🎓.<br/>
 I have been strongly passionate about informatics since high school,nowadays I'm<br/>
 focusing my studies on software engineering, web development and AI 👨‍💻.<br/>
-In the future I would like to learn more about android and game development 👾.
+In the future I would like to learn more about android and game development 👾.<br/>
+For more informations here's my <a href="_static_/BenenatiCV_En.pdf" target="_blank">CV</a> 📎.
 </p>
 
 ## Tech skills 💻
