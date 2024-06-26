@@ -1,6 +1,6 @@
 # Hi I'm b3nny01 👋
 
-<img src="_readmeImgs_/profileDesk.png" width="600px">
+<img src="_readmeImgs_/profileDesk.jpeg" width="600px">
 
 ## About me 📒
 
